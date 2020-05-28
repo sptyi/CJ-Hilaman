@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CJ-Hilaman/static/css/main.5f361e03.chunk.css",
+    "main.js": "/CJ-Hilaman/static/js/main.ea3cf17e.chunk.js",
+    "main.js.map": "/CJ-Hilaman/static/js/main.ea3cf17e.chunk.js.map",
+    "runtime-main.js": "/CJ-Hilaman/static/js/runtime-main.37caf68b.js",
+    "runtime-main.js.map": "/CJ-Hilaman/static/js/runtime-main.37caf68b.js.map",
+    "static/js/2.b26eb158.chunk.js": "/CJ-Hilaman/static/js/2.b26eb158.chunk.js",
+    "static/js/2.b26eb158.chunk.js.map": "/CJ-Hilaman/static/js/2.b26eb158.chunk.js.map",
+    "index.html": "/CJ-Hilaman/index.html",
+    "precache-manifest.112d3926c9741b352a3d6e84fa91aecd.js": "/CJ-Hilaman/precache-manifest.112d3926c9741b352a3d6e84fa91aecd.js",
+    "service-worker.js": "/CJ-Hilaman/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/CJ-Hilaman/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b26eb158.chunk.js.LICENSE.txt": "/CJ-Hilaman/static/js/2.b26eb158.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CJ-Hilaman/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37caf68b.js",
+    "static/js/2.b26eb158.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ea3cf17e.chunk.js"
+  ]
+}
